@@ -32,6 +32,11 @@ public class Controlador {
 
     }
 
+    public void test(){
+
+
+    }
+
 
 
 }
