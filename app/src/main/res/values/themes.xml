@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Tv1Gus" parent="@style/Theme.Leanback" />
+</resources>
